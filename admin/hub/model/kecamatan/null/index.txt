@@ -1,0 +1,2 @@
+//folder null berisi index kosong untuk pemilihan masing2 kecamatan yang dipilih dengan option menu
+//file didalam folder ini di include kan didalam views setiap desa masing2 kecamatan

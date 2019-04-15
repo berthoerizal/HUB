@@ -1,0 +1,3 @@
+//folder kecamatan berisi folder setiap kecamatan & folder null (penjelasan folder null selengkapnya bisa di cek di folder null)
+//pada setiap folder kecamatan berisi 13 index yang berfungsi untuk pemilihan desa setiap kecamatan
+//13 file index tersebut di includekan DIMASING-MASING  folder views desa pada masing2 kecamatan
